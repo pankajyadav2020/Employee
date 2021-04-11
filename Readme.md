@@ -1,11 +1,12 @@
 how to build and run the app
 //
-Employee rest api 
-//
-library
-1. gorm
-2. gorilla mux router
-3. sqlite database
+
+1.Employee rest api 
+
+3.library
+4. gorm
+5. gorilla mux router
+6. sqlite database
 
 type following conmmand in terminal
 1. go build
