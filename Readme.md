@@ -2,6 +2,7 @@ how to build and run the app
 
 
 type following conmmand in terminal
+
 1. go build
 2. ./employee
 
@@ -9,6 +10,7 @@ type following conmmand in terminal
 Employee rest api 
 
 ///library //
+
 gorm
 
 gorilla mux router
