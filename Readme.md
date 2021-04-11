@@ -6,12 +6,13 @@ type following conmmand in terminal
 2. ./employee
 
 
+Employee rest api 
 
-4.Employee rest api 
+///library //
+gorm
 
-3.library
-4. gorm
-5. gorilla mux router
-6. sqlite database
+gorilla mux router
+
+sqlite database
 
 
